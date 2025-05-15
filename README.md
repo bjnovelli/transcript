@@ -1,4 +1,4 @@
-# Program  para transcrever um áudio - 09-05-25
+# Programa  para transcrever um áudio - 09-05-25
 
 Usando o modelo Whisper da OpenAI, aqui está uma explicação rápida do que ele faz:
 
